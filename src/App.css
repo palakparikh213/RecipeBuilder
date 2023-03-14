@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Abhaya+Libre&display=swap');
+
+.main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #212121;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.main-header{
+    font-family: 'Abhaya Libre', serif;
+}
+.create-form label{
+    color: whitesmoke !important;
+    font-family: 'Abhaya Libre', serif;
+    font-size: 16px !important;
+}
